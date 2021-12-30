@@ -1,1 +1,2 @@
 This is my first file from local git folder
+This is the text for committing second modification
